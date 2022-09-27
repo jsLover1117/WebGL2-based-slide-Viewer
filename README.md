@@ -1,4 +1,3 @@
-![Preview](./preview.gif)
 
 # WebGL2 based Slide Viewer
 
