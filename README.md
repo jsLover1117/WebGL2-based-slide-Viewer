@@ -1,6 +1,6 @@
 ![Preview](./preview.gif)
 
-# WebGL slideshow experimentation
+# WebGL2 based Slide Viewer
 
 ## What
 
